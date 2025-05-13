@@ -17,5 +17,5 @@ int main()
     buku bukunya;
     // cahin function calls
     cout << bukunya.setJudul("Matematika"). getJudul ();
-    return 0
+    return 0;
 }

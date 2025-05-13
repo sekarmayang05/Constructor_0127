@@ -32,7 +32,7 @@ mahasiswa :: mahasiswa(int iNim, string iNama){
 void mahasiswa::cetak(){
 
     cout << endl << "Nim = "<<nim << endl;
-    cout 
+    cout <<  endl << "Nama = "<<nama << endl;
 }
 
 int main() {
